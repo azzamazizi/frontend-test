@@ -1,0 +1,222 @@
+[02-Aug-2022 08:52:21 UTC] could not find driver
+[02-Aug-2022 08:52:58 UTC] SQLSTATE[HY000] [2002] Connection refused
+[02-Aug-2022 08:54:13 UTC] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boxbilling.extension' doesn't exist
+[02-Aug-2022 08:54:14 UTC] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boxbilling.extension' doesn't exist
+[02-Aug-2022 08:54:15 UTC] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'boxbilling.extension' doesn't exist
+[02-Aug-2022 09:28:45 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:28:46 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:28:47 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:28:48 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:00 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:00 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:10 UTC] 
+[02-Aug-2022 09:29:10 UTC] Check your login details 403
+[02-Aug-2022 09:29:15 UTC] Check your login details 403
+[02-Aug-2022 09:29:27 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:27 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:36 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:40 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:41 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:41 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:42 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:46 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:29:49 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:24 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:24 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:31 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:31 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:32 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:40 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:45 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:48 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:49 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:51 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:30:59 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:31:01 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:31:04 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:31:06 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:33:31 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:33:35 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:33:35 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:33:35 UTC] 2 trim() expects parameter 1 to be string, array given /var/www/html/bb-library/Box/Url.php 64
+[02-Aug-2022 09:33:35 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:00 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:00 UTC] Currency format must include {{price}} tag 3569
+[02-Aug-2022 09:34:07 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:07 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:07 UTC] 2 trim() expects parameter 1 to be string, array given /var/www/html/bb-library/Box/Url.php 64
+[02-Aug-2022 09:34:07 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:10 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:25 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:25 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:25 UTC] 2 trim() expects parameter 1 to be string, array given /var/www/html/bb-library/Box/Url.php 64
+[02-Aug-2022 09:34:25 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:42 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:42 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:42 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:42 UTC] 2 trim() expects parameter 1 to be string, array given /var/www/html/bb-library/Box/Url.php 64
+[02-Aug-2022 09:34:42 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:42 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:42 UTC] 2 trim() expects parameter 1 to be string, array given /var/www/html/bb-library/Box/Url.php 64
+[02-Aug-2022 09:34:42 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:54 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:55 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:34:55 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:55 UTC] 2 trim() expects parameter 1 to be string, array given /var/www/html/bb-library/Box/Url.php 64
+[02-Aug-2022 09:34:55 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:55 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:34:55 UTC] 2 trim() expects parameter 1 to be string, array given /var/www/html/bb-library/Box/Url.php 64
+[02-Aug-2022 09:34:55 UTC] 2 Division by zero /var/www/html/bb-data/cache/1b/f6/fdd06ace15dff25f3cc120e2f16e55f6a4c67a700323f2bc6e0ec773cce2.php 163
+[02-Aug-2022 09:36:08 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:20 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:25 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:29 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:29 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:30 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:34 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:34 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:36:46 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:37:00 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:37:00 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:37:01 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:37:18 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:37:26 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:37:30 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:38:01 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 09:38:19 UTC] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:38:34 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:38:39 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:38:45 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:38:58 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:06 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:12 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:16 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:19 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:24 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:29 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:35 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:39 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:50 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:55 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:39:58 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:02 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:09 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:11 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:19 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:27 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:32 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:39 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:40:43 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:50:30 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:50:45 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:50:49 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:50:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:50:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:50:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:50:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:51:32 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 16:51:38 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:47:29 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:47:35 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:47:40 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:47:40 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:47:57 Asia/Jakarta] 
+[02-Aug-2022 19:47:57 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:47:58 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:07 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:07 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:14 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:14 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:19 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:24 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:28 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:36 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:40 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:40 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:45 Asia/Jakarta] Check your login details 403
+[02-Aug-2022 19:48:50 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:50 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:48:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:58:00 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:59:07 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:59:14 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:59:14 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:59:23 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:59:25 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 19:59:30 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:14:38 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:14:42 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:14:47 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:14:47 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:14:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:14:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:15:00 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:15:01 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:36:03 Asia/Jakarta] SQLSTATE[HY000] [1049] Unknown database 'boxbilling_import'
+[02-Aug-2022 20:37:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:37:59 Asia/Jakarta] Admin is not logged in
+[02-Aug-2022 20:38:03 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:38:04 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:38:08 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:38:09 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:38:13 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:38:13 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 20:53:38 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 22:20:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 22:35:29 Asia/Jakarta] 
+[02-Aug-2022 22:35:29 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 22:35:30 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 22:35:38 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[02-Aug-2022 22:35:39 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:17:09 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:17:12 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:17:17 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:17:17 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:17:27 Asia/Jakarta] 
+[03-Aug-2022 08:17:27 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:17:27 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:31:35 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:31:38 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:31:55 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:31:55 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:31:55 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:31:55 Asia/Jakarta] An exception has been thrown during the rendering of a template ("SQLSTATE[42000]: Syntax error or access violation: 1055 Expression #1 of ORDER BY clause is not in GROUP BY clause and contains nonaggregated column 'boxbilling.stm.created_at' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by") in "mod_index_dashboard.phtml" at line 10.
+[03-Aug-2022 08:34:27 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:34:30 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:34:42 Asia/Jakarta] Email is already registered. You may want to login instead of registering. 0
+[03-Aug-2022 08:34:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:34:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:02 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:14 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:18 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:22 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:38 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:39 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:51 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:51 Asia/Jakarta] Authentication Failed 201
+[03-Aug-2022 08:35:54 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 08:35:54 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 21:37:48 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 21:37:54 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 21:37:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 21:37:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 21:38:05 Asia/Jakarta] 
+[03-Aug-2022 21:38:05 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 21:38:06 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:09:45 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:09:46 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:09:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:09:53 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:11:49 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:12:15 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:12:24 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:12:43 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:12:48 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[03-Aug-2022 22:12:49 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[05-Aug-2022 08:50:59 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[05-Aug-2022 08:51:02 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[05-Aug-2022 09:02:06 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[05-Aug-2022 09:02:10 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[05-Aug-2022 09:02:10 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37
+[05-Aug-2022 09:02:10 Asia/Jakarta] 8 A session had already been started - ignoring session_start() /var/www/html/bb-library/Box/Session.php 37

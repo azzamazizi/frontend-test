@@ -1,0 +1,12 @@
+[02-Aug-2022 08:55:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /var/www/html/install/index.php:201
+Stack trace:
+#0 /var/www/html/install/index.php(67): Box_Installer->canConnectToDatabase('bb-db', 'boxbilling', 'user_bb', 'pass_bb')
+#1 /var/www/html/install/index.php(466): Box_Installer->run('check-db')
+#2 {main}
+  thrown in /var/www/html/install/index.php on line 201
+[02-Aug-2022 08:55:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_select_db() in /var/www/html/install/index.php:203
+Stack trace:
+#0 /var/www/html/install/index.php(67): Box_Installer->canConnectToDatabase('bb-db', 'boxbilling', 'user_bb', 'pass_bb')
+#1 /var/www/html/install/index.php(466): Box_Installer->run('check-db')
+#2 {main}
+  thrown in /var/www/html/install/index.php on line 203
