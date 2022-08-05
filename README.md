@@ -1,7 +1,8 @@
 # Readme how to run app using docker
 
 ## Installation
-make sure your machine have Docker and docker-compose
+- make sure your machine have Docker and docker-compose
+- in this case, i'm use MacOS and working well
 
 ## Run BoxBilling
 1. go to directory boxB/docker/php
