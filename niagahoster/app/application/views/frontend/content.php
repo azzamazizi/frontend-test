@@ -273,6 +273,14 @@
                                 <li><b>Unlimited SSL</b> Gratis Selamanya</li>
                                 <li><b>Private</b> Name Server</li>
                                 <li><b>Prioritas</b> Layanan Support</li>
+                                <li>
+                                    <img src="<?=base_url()?>assets/img/blue-star.png" width="18" height="18">
+                                    <img src="<?=base_url()?>assets/img/blue-star.png" width="18" height="18">
+                                    <img src="<?=base_url()?>assets/img/blue-star.png" width="18" height="18">
+                                    <img src="<?=base_url()?>assets/img/blue-star.png" width="18" height="18">
+                                    <img src="<?=base_url()?>assets/img/blue-star.png" width="18" height="18">
+                                </li>
+                                <li><b>SpamExpert</b> Pro Mail Protection</li>
                             </div>
                             <li><a href="#" class="harga-button">Pilih Sekarang</a></li>
                         </ul>
